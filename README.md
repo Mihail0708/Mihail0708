@@ -6,4 +6,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihail0708)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Languages and Tools:</h2>
-img src="https://skillicons.dev/icons?i=py,js,html,css,django,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,django,vscode,docker" />
